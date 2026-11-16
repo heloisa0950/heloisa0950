@@ -1,8 +1,8 @@
 <!-- BANNER INICIAL SUPERIOR -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Heitor+%F0%9F%91%8B;Estudante+de+Inform%C3%A1tica+para+Internet+%F0%9F%91%8B;Desenvolvedor+Web+Front-end+%26+Back-end+%F0%9F%9A%80"
-      alt="Apresentação: Olá, eu sou Heitor"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Heloisa+%F0%9F%91%8B;Estudante+de+Inform%C3%A1tica+para+Internet+%F0%9F%91%8B;Desenvolvedor+Web+Front-end+%26+Back-end+%F0%9F%9A%80"
+      alt="Apresentação: Olá, eu sou Heloisa"
     />
 </a>
 </div>
@@ -12,7 +12,7 @@
 <a href="mailto:heloisa.0950@aluno.pr.senac.br">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"
 </a>
-<img src="https://komarev.com/ghpvc/?username=Heitor09-site&label=Visualza%C3%A7%C3%B5es&color=0E75B&atyle=for-the-badge%22 alt="Contador de Visitas" />
+<img src="https://komarev.com/ghpvc/?username=Heitor09-site&label=Visualza%C3%A7%C3%B5es&color=0E75B&atyle=for-the-badge" alt="Contador de Visitas" />
 </div>
  
 <br/>
